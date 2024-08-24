@@ -26,7 +26,7 @@ Qur research project on the risk factors of cardiovascular diseases fits into th
 
 
 It was presented at the Illinois State University research symposium under the mentorship of Professor Olcay Akman. Our team analyzed a dataset of 70,000 individuals, focusing on demographic, biological, and health-related factors such as age, gender, weight, cholesterol, glucose levels, and blood pressure. Utilizing logistic regression, we developed a predictive model that achieved a 73\% accuracy rate in identifying the presence of cardiovascular diseases. Here iis a link to the poster we presented
-[here]([https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)](https://www.researchgate.net/publication/377358778_On_the_Risk_Factors_of_Cardiovascular_Diseases))
+[here]((https://www.researchgate.net/publication/377358778_On_the_Risk_Factors_of_Cardiovascular_Diseases))
 
 
 
