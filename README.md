@@ -14,8 +14,12 @@ Despite these advances, cardiovascular disease remains the leading cause of deat
 
 Research continues to focus on understanding the complex interactions between genetic, environmental, and behavioral factors that contribute to CVD. Current efforts include the development of more personalized approaches to treatment and prevention, the use of advanced imaging techniques for early detection, and the integration of big data and machine learning to predict cardiovascular risk more accurately.
 
-Your research project on the risk factors of cardiovascular diseases fits into this broader context by using logistic regression to identify key predictors of CVD, contributing to the ongoing efforts to combat this global health challenge.
+Qur research project on the risk factors of cardiovascular diseases fits into this broader context by using logistic regression to identify key predictors of CVD, contributing to the ongoing efforts to combat this global health challenge.
 
 <p align="center">
   <img src="https://github.com/Kwabenaduku/Risk-Factor-of-Cardiovascular-Diseases/blob/main/Heart.png" width="300" />
 </p>
+
+It was presented at the Illinois State University research symposium under the mentorship of Professor Olcay Akman. Our team analyzed a dataset of 70,000 individuals, focusing on demographic, biological, and health-related factors such as age, gender, weight, cholesterol, glucose levels, and blood pressure. Utilizing logistic regression, we developed a predictive model that achieved a 73\% accuracy rate in identifying the presence of cardiovascular diseases. Here iis a link to the poster we presented 
+\href{[https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)](https://www.researchgate.net/publication/377358778_On_the_Risk_Factors_of_Cardiovascular_Diseases)}.
+"https://www.researchgate.net/publication/377358778_On_the_Risk_Factors_of_Cardiovascular_Diseases"
