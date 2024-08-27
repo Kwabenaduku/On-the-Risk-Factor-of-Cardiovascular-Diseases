@@ -1,3 +1,8 @@
+# Read in the logistic regression model
+model <- readRDS("log_model.rds")
+
+
+
 server <- function(input, output, session) {
   
   # Input Data
