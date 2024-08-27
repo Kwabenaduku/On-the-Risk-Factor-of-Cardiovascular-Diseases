@@ -26,4 +26,4 @@ It was presented at the Illinois State University research symposium under the m
 
 ### Cardovascular Risk Predictoe Web App
 
-Click [here](https://cardiorisk001-2fd5fe804ac8.herokuapp.com)  Discover and interact with our cutting-edge Cardiovascular Risk Prediction app. We've developed an advanced logistic regression model to help identify individuals at risk for cardiovascular diseases, and is now available for you to explore 
+Click [here](https://cardiorisk001-2fd5fe804ac8.herokuapp.com)  to discover and interact with our cutting-edge Cardiovascular Risk Prediction app. We've developed an advanced logistic regression model to help identify individuals at risk for cardiovascular diseases, and is now available for you to explore. 
