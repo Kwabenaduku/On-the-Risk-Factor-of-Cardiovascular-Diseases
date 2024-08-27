@@ -1,7 +1,5 @@
 library(data.table)
-library(caret)
-library(MASS)
-library(tidyverse)
+library(stats)
 
 
 # Read in the logistic regression model
