@@ -4,7 +4,7 @@ library(shinythemes)
 TrainSet <- read.csv("training.csv", header = TRUE)
 TrainSet <- TrainSet[,-15]
 
-ui <- fluidPage(theme = shinytheme("cosmo"),
+ui <- fluidPage(theme = shinytheme("superhero"),
                 
                 # Application title
                 titlePanel("Cardiovascular Risk Predictor"),
